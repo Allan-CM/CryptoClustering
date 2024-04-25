@@ -3,7 +3,7 @@
 ## Overview
 This project aims to analyze cryptocurrency market data using K-means clustering. The analysis involves preprocessing the data, determining the optimal number of clusters (k), and clustering cryptocurrencies based on their price change percentages. Both original data and Principal Component Analysis (PCA) transformed data are used for clustering to compare the results.
 
-##Technologies Used
+## Technologies Used
 * Python
 * Pandas
 * hvPlot
